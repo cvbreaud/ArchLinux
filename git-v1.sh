@@ -2,27 +2,14 @@
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
-# Author 	: 	Erik Dubois
-# Website 	: 	http://www.erikdubois.be
+# Author 	: 	Charles Breaud
+# Website 	: 	http://www.charlesbreaud.com
 ##################################################################################################################
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 ##################################################################################################################
-
-# echo "# Ultimate-Linux-Mint-18" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon.git
-# git push -u origin master
-
-# git config --global user.name x
-# git config --global user.email x
-# sudo git config --system core.editor nano
-# git config --global credential.helper cache
-# git config --global credential.helper 'cache --timeout=3600'
 
 
 # Force git to overwrite local files on pull - no merge
